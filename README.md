@@ -1,10 +1,10 @@
 <h1 align='center'>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"/>, I'm Lency Lakhani</h1>
 <div align="center">
  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?color=%23F70F0F&size=23&width=650&lines=I'm+passionate+about+android+and+web+development">
+   <img src="https://readme-typing-svg.herokuapp.com?color=%23F70F0F&size=23&width=650&lines=I'm+passionate+about+Python+and+Web+development">
 </a>
 </div>
-<img width="50%" align="right" alt="Github" src="chill scene.gif" /> 
+<img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" /> 
 <br>
 
  📌 Good command on DSA
@@ -52,21 +52,30 @@
  <img src='mongodb-original.svg' width='70' alt='mongodb'>
  <img src='mysql-original.svg' width='70' alt='mysql'>
  <img src='dart-original.svg' width='70' alt='dart'>
+ 
+ <img src='Python.svg' width='70' alt='python'>
+ <img src='PyCharm.svg' width='70' alt='pycharm'>
+ <img src='PuTTY.svg' width='70' alt='putty'>
+ <img src='Postman.svg' width='70' alt='postman'>
+ <img src='PostgresSQL.svg' width='70' alt='postgresSQL'>
+ <img src='Kaggle.svg' width='70' alt='kaggle'>
+ <img src='jQuery.svg' width='70' alt='jQuery'>
+ <img src='IntelliJ IDEA.svg' width='70' alt='intellij idea'>
+ <img src='Gradle.svg' width='70' alt='gradle'>
+ <img src='Git.svg' width='70' alt='git'>
+ <img src='FastAPI.svg' width='70' alt='fastapi'>
+ <img src='Express.svg' width='70' alt='express'>
+ <img src='Django.svg' width='70' alt='django'>
+ <img src='Azure.svg' width='70' alt='azure'>
+ <img src='AWS.svg' width='70' alt='aws'>
+ <img src='AngularJS.svg' width='70' alt='angular'>
 </p>
 <br>
 
 <h3>📱 Connect with me</h3>
 <br>
  <p align="left">
- <a href="https://www.linkedin.com/in/dhyey-desai-178187182/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhyey desai" height="30" width="40" /></a>
- <a href="https://www.facebook.com/dhyey.510/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dhyey desai"  height="30" width="40" /></a>
- <a href="https://www.instagram.com/d.h.y.e.y._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dhyey desai" height="30" width="40" /></a>
- <a href="https://www.quora.com/profile/Desai-Dhyey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="dhyey desai" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/lency-lakhani-b782021a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lency lakhani" height="30" width="40" /></a>
 </p>
 
 <br>
-
-<h3>🎵 Spotify Song</h3>
-<br>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qarovceb6qs4yds5ocnr7bggfq&count=1)
