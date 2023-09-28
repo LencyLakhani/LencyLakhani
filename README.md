@@ -1,4 +1,4 @@
-<h1 align='center'>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"/>, I'm Dhyey Desai</h1>
+<h1 align='center'>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"/>, I'm Lency Lakhani</h1>
 <div align="center">
  <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70F0F&size=23&width=650&lines=I'm+passionate+about+android+and+web+development">
@@ -7,24 +7,24 @@
 <img width="50%" align="right" alt="Github" src="chill scene.gif" /> 
 <br>
 
- 📌 Currently working on my portfolio website
+ 📌 Good command on DSA
 
- 💬 Ask me about <b>Android and Web devlopment</b>
+ 💬 Ask me about <b>Python, Web Development & DSA</b>
 
- 📫 My Email address is dhyeydesai2000@outlook.com
+ 📫 My Email address is lencylakhani@outlook.com
  
- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1BVOLPEFLXX-sQQXg30MY7GPFt8Yw1K9C/view?usp=sharing'>Resume</a>
+ 📄 Know about my experiences <a href='https://drive.google.com/file/d/15kjktqO_omOhBFb0vSEROLAj21zN4FoS/view?usp=sharing'>Resume</a>
 
- 💛 Hobbies: Dancing, Reading And Coding 💛
+ 💛 Hobbies: Shopping, Traveling And Coding 💛
  
- 👀 Profile Viewers  <img src='https://profile-counter.glitch.me/dhyey510/count.svg' height='20' align='center'>
+ 👀 Profile Viewers  <img src='https://profile-counter.glitch.me/LencyLakhani/count.svg' height='20' align='center'>
 
 <br>
 <hr>
 
 <div align='center'>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhyey510&show_icons=true&locale=en&layout=compact" alt="dhyey510" height='200'>
- <img src='https://github-readme-stats.vercel.app/api?username=dhyey510&show_icons=true&theme=dracula' height='200'>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LencyLakhani&show_icons=true&locale=en&layout=compact" alt="LencyLakhani" height='200'>
+ <img src='https://github-readme-stats.vercel.app/api?username=LencyLakhani&show_icons=true&theme=dracula' height='200'>
 </div>
 
 <br>
@@ -43,8 +43,8 @@
  <img src='https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif/200w.webp' width='70' alt='vs code'>
  <img src='https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif/200w.webp' width='70' alt='android'>
  <img src='https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif/200w.webp' width='70' alt='php'>
- <img src='c-line.svg' width='70' alt='c'>
- <img src='cplusplus-original.svg' width='70' alt='c++'>
+
+ <img src='https://icons8.com/icon/Rc0Xn5AtE8kX/python' width='70' alt='c++'>
  <img src='java-original.svg' width='70' alt='java'>
  <img src='figma-original.svg' width='70' alt='figma'>
  <img src='flutter-original.svg' width='70' alt='flutter'>
