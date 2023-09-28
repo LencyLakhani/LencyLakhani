@@ -44,7 +44,8 @@
  <img src='https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif/200w.webp' width='70' alt='android'>
  <img src='https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif/200w.webp' width='70' alt='php'>
 
- <img src='https://icons8.com/icon/Rc0Xn5AtE8kX/python' width='70' alt='c++'>
+ <img src='c-line.svg' width='70' alt='c'>
+ <img src='cplusplus-original.svg' width='70' alt='c++'>
  <img src='java-original.svg' width='70' alt='java'>
  <img src='figma-original.svg' width='70' alt='figma'>
  <img src='flutter-original.svg' width='70' alt='flutter'>
