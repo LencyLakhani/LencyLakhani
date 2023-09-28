@@ -4,7 +4,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70F0F&size=23&width=650&lines=I'm+passionate+about+Python+and+Web+development">
 </a>
 </div>
-<img width="10%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" /> 
+<img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" /> 
 <br>
 
  📌 Good command on DSA
