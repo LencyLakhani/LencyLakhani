@@ -13,7 +13,7 @@
 
  📫 My Email address is lencylakhani@outlook.com
  
- 📄 Know about my experiences <a href='https://drive.google.com/drive/my-drive'>Resume</a>
+ 📄 Know about my experiences <a href='https://drive.google.com/file/d/1pF9TAyL6LPZ7FfstXFI5Q6d6nDDIcS6O/view?usp=sharing'>Resume</a>
 
  💛 Hobbies: Shopping, Traveling And Coding 💛
  
